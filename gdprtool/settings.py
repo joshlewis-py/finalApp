@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 #   'survey',
     'gdprtool',
-    'quiz',
+#    'quiz',
     'multichoice',
     'true_false',
     'essay',
